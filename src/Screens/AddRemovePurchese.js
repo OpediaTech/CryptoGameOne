@@ -216,7 +216,6 @@ function AddRemovePurchese() {
             
         </div>
     </div>
-   
     </div>
   )
 }
