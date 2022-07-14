@@ -51,7 +51,7 @@ function Menu() {
             <Link
               onClick={() => setOpen(!open)}
               className="Link"
-              to="PurchaseUnit"
+              to="purcheseUnit"
             >
               <p>
                 <FaWallet /> <span>PURCHASE UNIT</span>
@@ -62,7 +62,7 @@ function Menu() {
             <Link
               onClick={() => setOpen(!open)}
               className="Link"
-              to="AddRemoveUnit"
+              to="addRemovePurchese"
             >
               <p>
                 <RiAddBoxFill /> <span>ADD/REMOVE UNIT</span>
